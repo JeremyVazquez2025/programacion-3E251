@@ -44,6 +44,8 @@ int main(int argc, char const*argv[])
       cout << "Nombre: " << p.nombre << ", Edad: " << p.edad << endl;
     }
     archivoLectura.close();
+
+  
   return 0;
   
 }
